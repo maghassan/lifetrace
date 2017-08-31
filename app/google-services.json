@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "299640843411",
+    "firebase_url": "https://life-trace-chat.firebaseio.com",
+    "project_id": "life-trace-chat",
+    "storage_bucket": "life-trace-chat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299640843411:android:ddb54441a11c9158",
+        "android_client_info": {
+          "package_name": "ng.com.androidlife.lifetrace"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299640843411-csov06lm3s9l3dfqhcqib975a60qrk3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ng.com.androidlife.lifetrace",
+            "certificate_hash": "72ad3cfb25f094cf4ca45ff5cf92762919ef53f3"
+          }
+        },
+        {
+          "client_id": "299640843411-8bbd41jn884fsdq136k3f8vsc1pa7e6c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACC6Vs6MVpSYd44LYfFZK8WT29SrNW_sM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "299640843411-8bbd41jn884fsdq136k3f8vsc1pa7e6c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
